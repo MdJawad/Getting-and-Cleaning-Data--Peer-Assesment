@@ -6,3 +6,4 @@ Here are the data used in the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
+In order for the code to work properly, all the files must reside in the same working directory.
