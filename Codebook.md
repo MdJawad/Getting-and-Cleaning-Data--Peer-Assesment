@@ -25,4 +25,6 @@ subject.test hold the data from x_test.text, y_test.txt, subject_test.txt
 2.  int.features are the list of features extracted from the features.txt file that are the mean and standard deviation 
 measurements.
 
-3. Final dataset contains the average of each actvity for each subject.
+3. DF2 is the result of applying the mean function to calculate the column mean for each subject, based on the activtiy.
+
+4. The DF2 data frame is written to the FinalDataSet.txt file.
